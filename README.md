@@ -41,6 +41,10 @@ By: [Reiji Kobayashi](http://kobarei.me/)
 By: [Fabio Rehm](http://fabiorehm.com/)
 * Recipes for building a DigitalOcean Droplet for my needs, fell free to fork and adapt to your own.
 
+#### [DigitalOcean](https://github.com/AeroNotix/digitalocean)
+By: [Aaron France](https://github.com/AeroNotix)
+* Bindings for the DigitalOcean API.
+
 #### [DigitalOcean](https://github.com/toin0u/DigitalOcean)
 By: [Antoine Corcy](http://sbin.dk/)
 * PHP 5.3+ library that helps you interact with the DigitalOcean API via PHP or [CLI](https://github.com/toin0u/DigitalOcean#cli).
@@ -52,6 +56,10 @@ By: [Anders Fogh Eriksen](http://afogh.dk/)
 #### [DigitalOcean API](https://github.com/mylokin/digitalocean)
 By: [Andrey Gubarev](https://github.com/mylokin)
 * Example 1. How-to create CentOS droplet...
+
+#### [DigitalOcean API](https://github.com/graymic/digitalocean-api)
+By: [Michael Gray](http://www.graymic.co.uk/)
+* PHP API Wrapper.
 
 #### [DigitalOcean API Client](https://github.com/reynir/ocaml-digitalocean)
 By: [Reynir](http://reynir.dk/)
@@ -89,6 +97,10 @@ By: [Kerry Ivan Kurian](https://github.com/kkurian)
 By: [Antoine Corcy](http://sbin.dk/)
 * DigitalOcean API PHP 5.3+ library for Silex.
 
+#### [DigitalOcean hs](https://github.com/CodeBlock/digitalocean-hs)
+By: [Ricky Elrod](http://ricky.elrod.me/)
+* A Haskell library for working with the DigitalOcean API.
+
 #### [DigitalOcean Manager](https://github.com/philipheinser/DigitalOcean-Manager)
 By: [Philip Heinser](http://philipheinser.de/)
 * iOS App to Manage and View your Virtual Server horsted by DigitalOcean.
@@ -109,6 +121,10 @@ By: [Paul Sutcliffe](http://www.kosmyka.com/)
 By: [Signature.io](https://www.signature.io/)
 * Ruby bindings for the DigitalOcean API.
 
+#### [DigitalOcean S3 Storage](https://github.com/leifcr/digitalocean-riak-cs-example)
+By: [Leif Ringstad](http://bitelm.com/)
+* Setup Riak-CS on DigitalOcean to provide your own S3 storage.
+
 #### [DigitalOcean Setup](https://github.com/jcieslar/digitalocean-setup)
 By: [Jakub Cieslar](http://jcieslar.pl/)
 * A shell script that installs nginx + unicorn + rvm + rails on a DigitalOcean droplet.
@@ -116,6 +132,10 @@ By: [Jakub Cieslar](http://jcieslar.pl/)
 #### [Digitalocean Shell API](https://github.com/eric-brechemier/digitalocean-shell-api)
 By: [Eric Bréchemier](http://eric.brechemier.name/)
 * Shell scripts acting as client for the DigitalOcean API.
+
+#### [DigitalOcean Tutorial Generator](https://github.com/krmbzds/digitalocean-tutorial-generator)
+By: [Kerem Bozdas](http://bozdas.org/)
+* Life's too short to copy-paste from tutorials.
 
 #### [DigitalOcean Ubuntu-Fabric](https://github.com/valdergallo/digitalocean-ubuntu-fabric)
 By: [Valder Gallo](http://www.valdergallo.com.br/)
@@ -144,6 +164,10 @@ By: [Dynport GmbH](http://www.dynport.de/)
 #### [DOcap](https://github.com/yetti/docap)
 By: [Yetrina Battad](http://aether.nu/)
 * DigitalOcean RoR Capistrano quickstart project.
+
+#### [Docker on Digitalocean](https://github.com/antonlindstrom/packer-digitalocean-docker)
+By: [Anton Lindström](http://antonlindstrom.com/)
+* Packer json-file for creating an image on DigitalOcean with Docker installed.
 
 #### [Docker-DigitalOcean-Ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
 By: [Ken Cochrane](http://kencochrane.net/)
@@ -176,6 +200,10 @@ By: [Robert Coster](http://www.signalfire.co.uk/)
 By: Yigal Duppen, [Publysher](http://www.publysher.nl/)
 * Deploying an Nginx server on DigitalOcean using Vagrant and Salt.
 
+#### [Inkscape S3 Server](https://github.com/dustinlarimer/inkscape-s3-server/blob/master/README.md)
+By: [Dustin Larimer](http://dustinlarimer.com/about)
+* Inkscape: SVG → PNG → S3 on DigitalOcean.
+
 #### [iOS Mobile Server with Node &amp; Digitalocean](https://github.com/mschmulen/ios-mobile-server-with-node-and-digitalocean)
 By: Matt Schmulen, [StrongLoop](http://www.strongloop.com/)
 * Use a DigitalOcean Droplet for on demand mobile backend.
@@ -191,6 +219,10 @@ By: [NCTA](http://www.thencta.com/)
 #### [Laravel DigitalOcean API](https://github.com/GrahamCampbell/Laravel-DigitalOcean-API)
 By: [Graham Campbell](http://grahamcampbell.github.io/)
 * A DigitalOcean API Client For Laravel 4.
+
+#### [LEMP VPS DigitalOcean](https://github.com/helirexi/LEMP-VPS-DigitalOcean)
+By: [AG](https://github.com/helirexi)
+* Use your own kernels in DigitalOcean's droplet VPS with ArchLinux.
 
 #### [net_digitalocean_spore](https://github.com/fffinkel/net_digitalocean_spore)
 By: [Matt Finkel](http://mfinkel.net/)
@@ -227,6 +259,10 @@ By: [Salt Stack](http://saltstack.com/community.html)
 #### [Seashell](https://github.com/jogfsovt/seashell)
 By: [Salvatore LaMendola](https://www.shellvatore.us/)
 * A Bash client for the DigitalOcean API.
+
+#### [Server Spinup](https://github.com/qrohlf/server-spinup)
+By: [Quinn Rohlf](http://qrohlf.com/)
+* A very basic shell script to set up my preferred environment on a DigitalOcean VPS.
 
 #### [Toin0uDigitalOceanBundle](https://github.com/toin0u/Toin0uDigitalOceanBundle)
 By: [Antoine Corcy](http://sbin.dk/)
