@@ -25,6 +25,10 @@ By: [Felix](https://github.com/felixroeser)
 #### [Cloud 66](https://www.cloud66.com/)
 * The easiest way to deploy, monitor and manage your Ruby on Rails applications on your cloud.
 
+#### [contrail-packer](https://github.com/routelastresort/contrail-packer)
+By: [John Deatherage](http://netdevops.io/)
+* Packer templates for building vagrant, Amazon EC2, OpenStack &amp; DigitalOcean images.
+
 #### [ControleDroplet](https://github.com/kobarei/ControleDroplet)
 By: [Reiji Kobayashi](http://kobarei.me/)
 * Ruby script controle your DigitalOcean Droplets.
@@ -33,13 +37,29 @@ By: [Reiji Kobayashi](http://kobarei.me/)
 By: [Fabio Rehm](http://fabiorehm.com/)
 * Recipes for building a DigitalOcean Droplet for my needs, fell free to fork and adapt to your own.
 
+#### [DigitalOcean API](https://github.com/mylokin/digitalocean)
+By: [Andrey Gubarev](https://github.com/mylokin)
+* Example 1. How-to create CentOS droplet...
+
+#### [DigitalOcean API client](https://github.com/reynir/ocaml-digitalocean)
+By: [Reynir](http://reynir.dk/)
+* A DigitalOcena API client library written in OCaml.
+
 #### [DigitalOcean API node.js wrapper](https://github.com/enzy/digitalocean-api)
 By: [Matej Simek](http://www.matejsimek.cz/)
 * A module that allows you to communicate with the DigitalOcean API from `node.js`.
 
+#### [DigitalOcean Droplet Generator](https://github.com/rudisimo/droplet-generator)
+By: [Rodolfo Puig](http://puig.io/)
+* A Vagrant + Puppet configuration environment to create and deploy DigitalOcean droplets.
+
 #### [DigitalOcean for Python3](https://github.com/kkurian/digitalocean)
 By: [Kerry Ivan Kurian](https://github.com/kkurian)
 * Python3 wrapper for the DigitalOcean API.
+
+#### [DigitalOcean Manager](https://github.com/philipheinser/DigitalOcean-Manager)
+By: [Philip Heinser](http://philipheinser.de/)
+* iOS App to Manage and View your Virtual Server horsted by DigitalOcean.
 
 #### [DigitalOcean Ruby Bindings](https://github.com/signatureio/digitalocean)
 By: [Signature.io](https://www.signature.io/)
@@ -61,6 +81,10 @@ By: [Christoph Spiegl](http://chrissp.com/)
 By: [Shawn Dahlen](http://shawn.dahlen.me/)
 * A provider plugin for [Vagrant](http://www.vagrantup.com/) that supports the management of DigitalOcean droplets (instances).
 
+#### [docker-digitalocean-ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
+By: [Ken Cochrane](http://kencochrane.net/)
+* Ansible script for creating the docker image on DigitalOcean.
+
 #### [Drizzle](http://getdrizzle.com/)
 By: [Snippex](https://www.facebook.com/snippex)
 * Drizzle allows you to manage your entire DigitalOcean account from your phone. Drizzle is an app for iOS.
@@ -80,9 +104,17 @@ By: Matt Schmulen, [StrongLoop](http://www.strongloop.com/)
 By: [Greg Fitzgerald](http://gregf.org/)
 * A DigitalOcean driver for Test Kitchen 1.0.
 
+#### [Laravel DigitalOcean API](https://github.com/GrahamCampbell/Laravel-DigitalOcean-API)
+By: [Graham Campbell](http://grahamcampbell.github.io/)
+* A DigitalOcean API Client For Laravel 4.
+
 #### [net_digitalocean_spore](https://github.com/fffinkel/net_digitalocean_spore)
 By: [Matt Finkel](http://mfinkel.net/)
 * Net::DigitalOcean::Spore - DigitalOcean SPORE REST Client.
+
+#### [php-digitalocean](https://github.com/lovattj/php-digitalocean)
+By: [Jonathan Lovatt](http://jlls.info/)
+* Client Library for DigitalOcean cloud service API.
 
 #### [PuPHPet](https://puphpet.com/)
 By: [Juan Treminio](https://jtreminio.com/)
