@@ -1,5 +1,6 @@
 Directory
 =========
+*Instructions for listing your project are outlined in the [About](https://github.com/DigitalOcean-User-Projects/About#listing-your-project) page.*
 
 * [infra-example-nginx](https://github.com/publysher/infra-example-nginx)
   * By: Yigal Duppen, [Publysher](http://www.publysher.nl/)
