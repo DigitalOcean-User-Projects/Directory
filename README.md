@@ -25,6 +25,10 @@ By: [Felix](https://github.com/felixroeser)
 #### [Cloud 66](https://www.cloud66.com/)
 * The easiest way to deploy, monitor and manage your Ruby on Rails applications on your cloud.
 
+#### [colombo](https://github.com/lmmendes/colombo)
+By: [Luís Mendes](http://localhost3000.pt/)
+* A simple ruby client for DigitalOcean HTTP API.
+
 #### [contrail-packer](https://github.com/routelastresort/contrail-packer)
 By: [John Deatherage](http://netdevops.io/)
 * Packer templates for building vagrant, Amazon EC2, OpenStack &amp; DigitalOcean images.
@@ -57,9 +61,17 @@ By: [Reynir](http://reynir.dk/)
 By: [Jeevanandam M.](http://myjeeva.com/)
 * DigitalOcean API Client in Java.
 
+#### [DigitalOcean API Java Wrapper](https://github.com/dgskv/digital-ocean-api-java-wrapper)
+By: [@dgskv](https://github.com/dgskv)
+* Java wrapper around DigitalOcean API.
+
 #### [DigitalOcean API node.js wrapper](https://github.com/enzy/digitalocean-api)
 By: [Matej Simek](http://www.matejsimek.cz/)
 * A module that allows you to communicate with the DigitalOcean API from `node.js`.
+
+#### [DigitalOcean CLI](https://github.com/jak/digitalocean_cli)
+By: [Jak Spalding](http://jak.io/)
+* Command Line Interface for DigitalOcean.
 
 #### [DigitalOcean Droplet Generator](https://github.com/rudisimo/droplet-generator)
 By: [Rodolfo Puig](http://puig.io/)
@@ -81,6 +93,14 @@ By: [Antoine Corcy](http://sbin.dk/)
 By: [Philip Heinser](http://philipheinser.de/)
 * iOS App to Manage and View your Virtual Server horsted by DigitalOcean.
 
+#### [DigitalOcean Percona MySQL](https://github.com/SobanVuex/digitalocean-percona-mysql)
+By: [Alex Soban](http://sobanvuex.com/)
+* Percona Server is an enhanced, drop-in MySQL replacement.
+
+#### [DigitalOcean PHP class](https://github.com/mauran/Digitalocean-PHP-class)
+By: [Mauran Muthiah](http://mauran.me/)
+* PHP class for the Digital Ocean API.
+
 #### [DigitalOcean Rails](https://github.com/paulsutcliffe/digitalocean-rails)
 By: [Paul Sutcliffe](http://www.kosmyka.com/)
 * Template for Ruby on Rails apps on Digital Ocean.
@@ -101,17 +121,29 @@ By: [Eric Bréchemier](http://eric.brechemier.name/)
 By: [Valder Gallo](http://www.valdergallo.com.br/)
 * Fabric colection to deploy Django with nginx and gunicorn in DigitalOcean.
 
-#### [DigitalOceanStreak](https://github.com/cspiegl/DigitalOceanStreak)
-By: [Christoph Spiegl](http://chrissp.com/)
-* A little script/site that shows the longest interval DigitalOcean has been up without any problems (reported on their [status site](http://www.digitaloceanstatus.com/)).
-
 #### [DigitalOcean Vagrant Provider](https://github.com/smdahlen/vagrant-digitalocean)
 By: [Shawn Dahlen](http://shawn.dahlen.me/)
 * A provider plugin for [Vagrant](http://www.vagrantup.com/) that supports the management of DigitalOcean droplets (instances).
 
+#### [DigitalOcean Wercker Node.js](https://github.com/mies/digitalocean-wercker-nodejs)
+By: [Micha Hernandez van Leuffen](http://distributedaweso.me/)
+* Sample application for continuous delivery with Wercker to DigitalOcean.
+
+#### [DigitalOcean.node](https://github.com/mattinsler/digitalocean.node)
+By: [Matt Insler](http://www.mattinsler.com/)
+* Digital Ocean API client for node.js
+
+#### [DigitalOceanStreak](https://github.com/cspiegl/DigitalOceanStreak)
+By: [Christoph Spiegl](http://chrissp.com/)
+* A little script/site that shows the longest interval DigitalOcean has been up without any problems (reported on their [status site](http://www.digitaloceanstatus.com/)).
+
 #### [digo](https://github.com/dynport/digo)
 By: [Dynport GmbH](http://www.dynport.de/)
 * DigitalOcean API cli tool and library for golang.
+
+#### [DOcap](https://github.com/yetti/docap)
+By: [Yetrina Battad](http://aether.nu/)
+* DigitalOcean RoR Capistrano quickstart project.
 
 #### [Docker-DigitalOcean-Ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
 By: [Ken Cochrane](http://kencochrane.net/)
@@ -152,6 +184,10 @@ By: Matt Schmulen, [StrongLoop](http://www.strongloop.com/)
 By: [Greg Fitzgerald](http://gregf.org/)
 * A DigitalOcean driver for Test Kitchen 1.0.
 
+#### [LAMP stack on DigitalOcean](https://github.com/NCTA/LAMP-stack-on-digitalocean)
+By: [NCTA](http://www.thencta.com/)
+* Use Chef to install LAMP stack on a DigitalOcean droplet.
+
 #### [Laravel DigitalOcean API](https://github.com/GrahamCampbell/Laravel-DigitalOcean-API)
 By: [Graham Campbell](http://grahamcampbell.github.io/)
 * A DigitalOcean API Client For Laravel 4.
@@ -163,6 +199,10 @@ By: [Matt Finkel](http://mfinkel.net/)
 #### [Node DigitalOcean](https://github.com/avz/node-digitalocean)
 By: [Artem Zaytsev](https://github.com/avz)
 * DigitalOcean API implementation for NodeJS
+
+#### [Node DigitalOcean.js](https://github.com/innoying/node-digitalocean.js)
+By: [Luke Young](http://innoying.com/)
+* node.js implementation of the Digital Ocean API.
 
 #### [PoSh DigitalOcean](https://github.com/aaronpmiller/PoSh-DigitalOcean)
 By: [@aaronpmiller](https://github.com/aaronpmiller)
@@ -199,3 +239,7 @@ By: [Jack Pearkes](http://jack.ly/)
 #### [VPS DigitalOcean](https://github.com/rudisimo/vps-digitalocean)
 By: [Rodolfo Puig](http://puig.io/)
 * A Vagrant + Puppet configuration to create DigitalOcean droplets for PHP development.
+
+#### [WordPress with Chef](https://github.com/NCTA/digitalocean)
+By: [NCTA](http://www.thencta.com/)
+* Using [Chef](https://www.digitalocean.com/community/articles/how-to-install-chef-and-ruby-with-rvm-on-a-ubuntu-vps) to install WordPress on DigitalOcean.
