@@ -33,7 +33,7 @@ By: [John Deatherage](http://netdevops.io/)
 By: [Reiji Kobayashi](http://kobarei.me/)
 * Ruby script controle your DigitalOcean Droplets.
 
-#### [dev-droplet](https://github.com/fgrehm/dev-droplet)
+#### [Dev Droplet](https://github.com/fgrehm/dev-droplet)
 By: [Fabio Rehm](http://fabiorehm.com/)
 * Recipes for building a DigitalOcean Droplet for my needs, fell free to fork and adapt to your own.
 
@@ -41,13 +41,21 @@ By: [Fabio Rehm](http://fabiorehm.com/)
 By: [Antoine Corcy](http://sbin.dk/)
 * PHP 5.3+ library that helps you interact with the DigitalOcean API via PHP or [CLI](https://github.com/toin0u/DigitalOcean#cli).
 
+#### [DigitalOcean Alfred](https://github.com/Fogh/DigitalOcean-Alfred)
+By: [Anders Fogh Eriksen](http://afogh.dk/)
+* Control your DigitalOcean droplets from Alfred.
+
 #### [DigitalOcean API](https://github.com/mylokin/digitalocean)
 By: [Andrey Gubarev](https://github.com/mylokin)
 * Example 1. How-to create CentOS droplet...
 
-#### [DigitalOcean API client](https://github.com/reynir/ocaml-digitalocean)
+#### [DigitalOcean API Client](https://github.com/reynir/ocaml-digitalocean)
 By: [Reynir](http://reynir.dk/)
 * A DigitalOcena API client library written in OCaml.
+
+#### [DigitalOcean API Java Client](https://github.com/jeevatkm/digitalocean-api-java)
+By: [Jeevanandam M.](http://myjeeva.com/)
+* DigitalOcean API Client in Java.
 
 #### [DigitalOcean API node.js wrapper](https://github.com/enzy/digitalocean-api)
 By: [Matej Simek](http://www.matejsimek.cz/)
@@ -73,6 +81,10 @@ By: [Antoine Corcy](http://sbin.dk/)
 By: [Philip Heinser](http://philipheinser.de/)
 * iOS App to Manage and View your Virtual Server horsted by DigitalOcean.
 
+#### [DigitalOcean Rails](https://github.com/paulsutcliffe/digitalocean-rails)
+By: [Paul Sutcliffe](http://www.kosmyka.com/)
+* Template for Ruby on Rails apps on Digital Ocean.
+
 #### [DigitalOcean Ruby Bindings](https://github.com/signatureio/digitalocean)
 By: [Signature.io](https://www.signature.io/)
 * Ruby bindings for the DigitalOcean API.
@@ -97,20 +109,36 @@ By: [Christoph Spiegl](http://chrissp.com/)
 By: [Shawn Dahlen](http://shawn.dahlen.me/)
 * A provider plugin for [Vagrant](http://www.vagrantup.com/) that supports the management of DigitalOcean droplets (instances).
 
-#### [docker-digitalocean-ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
+#### [digo](https://github.com/dynport/digo)
+By: [Dynport GmbH](http://www.dynport.de/)
+* DigitalOcean API cli tool and library for golang.
+
+#### [Docker-DigitalOcean-Ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
 By: [Ken Cochrane](http://kencochrane.net/)
 * Ansible script for creating the docker image on DigitalOcean.
 
-#### [doirc-faq](https://github.com/TannerFilip/doirc-faq)
+#### [DOirc FAQ](https://github.com/TannerFilip/doirc-faq)
 By: [Tanner Filip](http://tannerfilip.me/)
 * Smallish webpage with questions very frequently asked in [#digitalocean](http://webchat.freenode.net/?channels=digitalocean&uio=d4).
+
+#### [Doman](https://github.com/ahmethelvaci/doman)
+By: [Ahmet Helvacı](http://blog.helvaci.biz/)
+* Manage DigitalOcean droplets on web API.
 
 #### [Drizzle](http://getdrizzle.com/)
 By: [Snippex](https://www.facebook.com/snippex)
 * Drizzle allows you to manage your entire DigitalOcean account from your phone. Drizzle is an app for iOS.
 
+#### [Droplets](https://github.com/wuzhuo/Droplets)
+By: [@wuzhuo](https://github.com/wuzhuo)
+* Droplets for DigitalOcean.
+
 #### [ECmanaged](https://ecmanaged.com/)
 * ECmanaged is a SaaS to manage & monitor cloud platforms, and deploy applications easily.
+
+#### [Hostocean](https://github.com/signalfire/Hostocean)
+By: [Robert Coster](http://www.signalfire.co.uk/)
+* Drupal Module to interface with DigitalOcean.
 
 #### [infra-example-nginx](https://github.com/publysher/infra-example-nginx)
 By: Yigal Duppen, [Publysher](http://www.publysher.nl/)
@@ -131,6 +159,10 @@ By: [Graham Campbell](http://grahamcampbell.github.io/)
 #### [net_digitalocean_spore](https://github.com/fffinkel/net_digitalocean_spore)
 By: [Matt Finkel](http://mfinkel.net/)
 * Net::DigitalOcean::Spore - DigitalOcean SPORE REST Client.
+
+#### [Node DigitalOcean](https://github.com/avz/node-digitalocean)
+By: [Artem Zaytsev](https://github.com/avz)
+* DigitalOcean API implementation for NodeJS
 
 #### [PoSh DigitalOcean](https://github.com/aaronpmiller/PoSh-DigitalOcean)
 By: [@aaronpmiller](https://github.com/aaronpmiller)
@@ -163,3 +195,7 @@ By: [Antoine Corcy](http://sbin.dk/)
 #### [Tugboat](https://github.com/pearkes/tugboat)
 By: [Jack Pearkes](http://jack.ly/)
 * A command line tool for interacting with your DigitalOcean droplets.
+
+#### [VPS DigitalOcean](https://github.com/rudisimo/vps-digitalocean)
+By: [Rodolfo Puig](http://puig.io/)
+* A Vagrant + Puppet configuration to create DigitalOcean droplets for PHP development.
