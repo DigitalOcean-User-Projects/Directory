@@ -7,7 +7,7 @@ By: [Michael Warkentin](http://www.michaelwarkentin.com/)
 * Ansible playbook for setting up Jenkins on DigitalOcean.
 
 #### [base_DO](https://github.com/benjyc/base_DO)
-By: [benjyc](http://benjyc.github.io/)
+By: [@benjyc](http://benjyc.github.io/)
 * [Vagrant](http://www.vagrantup.com/) basebox for Digitalocean.
 
 #### [Basin](http://basinapp.com/)
@@ -37,6 +37,10 @@ By: [Reiji Kobayashi](http://kobarei.me/)
 By: [Fabio Rehm](http://fabiorehm.com/)
 * Recipes for building a DigitalOcean Droplet for my needs, fell free to fork and adapt to your own.
 
+#### [DigitalOcean](https://github.com/toin0u/DigitalOcean)
+By: [Antoine Corcy](http://sbin.dk/)
+* PHP 5.3+ library that helps you interact with the DigitalOcean API via PHP or [CLI](https://github.com/toin0u/DigitalOcean#cli).
+
 #### [DigitalOcean API](https://github.com/mylokin/digitalocean)
 By: [Andrey Gubarev](https://github.com/mylokin)
 * Example 1. How-to create CentOS droplet...
@@ -53,9 +57,17 @@ By: [Matej Simek](http://www.matejsimek.cz/)
 By: [Rodolfo Puig](http://puig.io/)
 * A Vagrant + Puppet configuration environment to create and deploy DigitalOcean droplets.
 
+#### [DigitalOcean for Lavarel 4](https://github.com/toin0u/DigitalOcean-laravel)
+By: [Antoine Corcy](http://sbin.dk/)
+* DigitalOcean API PHP 5.3+ library for Laravel 4.
+
 #### [DigitalOcean for Python3](https://github.com/kkurian/digitalocean)
 By: [Kerry Ivan Kurian](https://github.com/kkurian)
 * Python3 wrapper for the DigitalOcean API.
+
+#### [DigitalOcean for Silex](https://github.com/toin0u/DigitalOcean-silex)
+By: [Antoine Corcy](http://sbin.dk/)
+* DigitalOcean API PHP 5.3+ library for Silex.
 
 #### [DigitalOcean Manager](https://github.com/philipheinser/DigitalOcean-Manager)
 By: [Philip Heinser](http://philipheinser.de/)
@@ -65,13 +77,17 @@ By: [Philip Heinser](http://philipheinser.de/)
 By: [Signature.io](https://www.signature.io/)
 * Ruby bindings for the DigitalOcean API.
 
-#### [digitalocean-setup](https://github.com/jcieslar/digitalocean-setup)
+#### [DigitalOcean Setup](https://github.com/jcieslar/digitalocean-setup)
 By: [Jakub Cieslar](http://jcieslar.pl/)
 * A shell script that installs nginx + unicorn + rvm + rails on a DigitalOcean droplet.
 
 #### [Digitalocean Shell API](https://github.com/eric-brechemier/digitalocean-shell-api)
 By: [Eric Bréchemier](http://eric.brechemier.name/)
 * Shell scripts acting as client for the DigitalOcean API.
+
+#### [DigitalOcean Ubuntu-Fabric](https://github.com/valdergallo/digitalocean-ubuntu-fabric)
+By: [Valder Gallo](http://www.valdergallo.com.br/)
+* Fabric colection to deploy Django with nginx and gunicorn in DigitalOcean.
 
 #### [DigitalOceanStreak](https://github.com/cspiegl/DigitalOceanStreak)
 By: [Christoph Spiegl](http://chrissp.com/)
@@ -84,6 +100,10 @@ By: [Shawn Dahlen](http://shawn.dahlen.me/)
 #### [docker-digitalocean-ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
 By: [Ken Cochrane](http://kencochrane.net/)
 * Ansible script for creating the docker image on DigitalOcean.
+
+#### [doirc-faq](https://github.com/TannerFilip/doirc-faq)
+By: [Tanner Filip](http://tannerfilip.me/)
+* Smallish webpage with questions very frequently asked in [#digitalocean](http://webchat.freenode.net/?channels=digitalocean&uio=d4).
 
 #### [Drizzle](http://getdrizzle.com/)
 By: [Snippex](https://www.facebook.com/snippex)
@@ -112,6 +132,10 @@ By: [Graham Campbell](http://grahamcampbell.github.io/)
 By: [Matt Finkel](http://mfinkel.net/)
 * Net::DigitalOcean::Spore - DigitalOcean SPORE REST Client.
 
+#### [PoSh DigitalOcean](https://github.com/aaronpmiller/PoSh-DigitalOcean)
+By: [@aaronpmiller](https://github.com/aaronpmiller)
+* Powershell module containing a collection of functions that utilize the DigitalOcean API.
+
 #### [php-digitalocean](https://github.com/lovattj/php-digitalocean)
 By: [Jonathan Lovatt](http://jlls.info/)
 * Client Library for DigitalOcean cloud service API.
@@ -127,6 +151,14 @@ By: [Lorenzo Setale](http://setale.me/)
 #### [Salt Cloud](https://github.com/saltstack/salt-cloud)
 By: [Salt Stack](http://saltstack.com/community.html)
 * A tool for provisioning Salted minions on DigitalOcean.
+
+#### [Seashell](https://github.com/jogfsovt/seashell)
+By: [Salvatore LaMendola](https://www.shellvatore.us/)
+* A Bash client for the DigitalOcean API.
+
+#### [Toin0uDigitalOceanBundle](https://github.com/toin0u/Toin0uDigitalOceanBundle)
+By: [Antoine Corcy](http://sbin.dk/)
+* Integration of DigitalOcean library into Symfony2.
 
 #### [Tugboat](https://github.com/pearkes/tugboat)
 By: [Jack Pearkes](http://jack.ly/)
