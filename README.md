@@ -6,6 +6,10 @@ Directory
 By: [Michael Warkentin](http://www.michaelwarkentin.com/)
 * Ansible playbook for setting up Jenkins on DigitalOcean.
 
+#### [base_DO](https://github.com/benjyc/base_DO)
+By: [benjyc](http://benjyc.github.io/)
+* [Vagrant](http://www.vagrantup.com/) basebox for Digitalocean.
+
 #### [Basin](http://basinapp.com/)
 By: [Josh Frye](https://twitter.com/joshfng)
 * Manage your droplets with Basin. Basin is the first DigitalOcean client for iOS and Android.
@@ -14,12 +18,20 @@ By: [Josh Frye](https://twitter.com/joshfng)
 By: [Forsaken Labs](http://twitter.com/forsakenlabs)
 * Keep an eye on your Droplets on the go. Binary Deep is a DigitalOcean app for iOS.
 
+#### [Binarysolo](https://github.com/felixroeser/binarysolo)
+By: [Felix](https://github.com/felixroeser)
+* Selfhosted [Stringer](https://github.com/swanson/stringer), gitolite, jekyll in a single DigitalOcean droplet.
+
 #### [Cloud 66](https://www.cloud66.com/)
 * The easiest way to deploy, monitor and manage your Ruby on Rails applications on your cloud.
 
 #### [ControleDroplet](https://github.com/kobarei/ControleDroplet)
 By: [Reiji Kobayashi](http://kobarei.me/)
 * Ruby script controle your DigitalOcean Droplets.
+
+#### [dev-droplet](https://github.com/fgrehm/dev-droplet)
+By: [Fabio Rehm](http://fabiorehm.com/)
+* Recipes for building a DigitalOcean Droplet for my needs, fell free to fork and adapt to your own.
 
 #### [DigitalOcean API node.js wrapper](https://github.com/enzy/digitalocean-api)
 By: [Matej Simek](http://www.matejsimek.cz/)
@@ -31,15 +43,23 @@ By: [Kerry Ivan Kurian](https://github.com/kkurian)
 
 #### [DigitalOcean Ruby Bindings](https://github.com/signatureio/digitalocean)
 By: [Signature.io](https://www.signature.io/)
-* Ruby bindings for the Digital Ocean API.
+* Ruby bindings for the DigitalOcean API.
+
+#### [digitalocean-setup](https://github.com/jcieslar/digitalocean-setup)
+By: [Jakub Cieslar](http://jcieslar.pl/)
+* A shell script that installs nginx + unicorn + rvm + rails on a DigitalOcean droplet.
 
 #### [Digitalocean Shell API](https://github.com/eric-brechemier/digitalocean-shell-api)
 By: [Eric Bréchemier](http://eric.brechemier.name/)
 * Shell scripts acting as client for the DigitalOcean API.
 
+#### [DigitalOceanStreak](https://github.com/cspiegl/DigitalOceanStreak)
+By: [Christoph Spiegl](http://chrissp.com/)
+* A little script/site that shows the longest interval DigitalOcean has been up without any problems (reported on their [status site](http://www.digitaloceanstatus.com/)).
+
 #### [DigitalOcean Vagrant Provider](https://github.com/smdahlen/vagrant-digitalocean)
 By: [Shawn Dahlen](http://shawn.dahlen.me/)
-* A provider plugin for [Vagrant](http://www.vagrantup.com/) that supports the management of Digital Ocean droplets (instances).
+* A provider plugin for [Vagrant](http://www.vagrantup.com/) that supports the management of DigitalOcean droplets (instances).
 
 #### [Drizzle](http://getdrizzle.com/)
 By: [Snippex](https://www.facebook.com/snippex)
@@ -54,15 +74,23 @@ By: Yigal Duppen, [Publysher](http://www.publysher.nl/)
 
 #### [iOS Mobile Server with Node &amp; Digitalocean](https://github.com/mschmulen/ios-mobile-server-with-node-and-digitalocean)
 By: Matt Schmulen, [StrongLoop](http://www.strongloop.com/)
-* Use a Digital Ocean Droplet for on demand mobile backend.
+* Use a DigitalOcean Droplet for on demand mobile backend.
 
-#### [Kitchen::Digitalocean](https://github.com/gregf/kitchen-digitalocean)
+#### [Kitchen::DigitalOcean](https://github.com/gregf/kitchen-digitalocean)
 By: [Greg Fitzgerald](http://gregf.org/)
-* A DigitalOcean driver for Test Kitchen 1.0
+* A DigitalOcean driver for Test Kitchen 1.0.
+
+#### [net_digitalocean_spore](https://github.com/fffinkel/net_digitalocean_spore)
+By: [Matt Finkel](http://mfinkel.net/)
+* Net::DigitalOcean::Spore - DigitalOcean SPORE REST Client.
 
 #### [PuPHPet](https://puphpet.com/)
 By: [Juan Treminio](https://jtreminio.com/)
 * A simple GUI to set up virtual machines for Web development.
+
+#### [python-digitalocean](http://projects.setale.me/python-digitalocean/)
+By: [Lorenzo Setale](http://setale.me/)
+* A python package that provide easy access to DigitalOcean's API to manage droplets, images and more.
 
 #### [Salt Cloud](https://github.com/saltstack/salt-cloud)
 By: [Salt Stack](http://saltstack.com/community.html)
