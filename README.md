@@ -2,6 +2,8 @@ Directory
 =========
 *Instructions for listing your project(s) are outlined in the [About](https://github.com/DigitalOcean-User-Projects/About#listing-your-project) page.*
 
+## A
+
 #### [Ansible-Debian](https://github.com/mebubo/digitalocean-ansible-debian)
 By: [Sergei](https://github.com/mebubo)
 * Ansible playbook to configure Debian on DigitalOcean.
@@ -13,6 +15,8 @@ By: [Benjamin Schwarze](https://github.com/benjixx)
 #### [Ansible-Jenkins](https://github.com/mwarkentin/ansible-jenkins)
 By: [Michael Warkentin](http://www.michaelwarkentin.com/)
 * Ansible playbook for setting up Jenkins on DigitalOcean.
+
+## B
 
 #### [base_DO](https://github.com/benjyc/base_DO)
 By: [@benjyc](http://benjyc.github.io/)
@@ -29,6 +33,8 @@ By: [Forsaken Labs](http://twitter.com/forsakenlabs)
 #### [Binarysolo](https://github.com/felixroeser/binarysolo)
 By: [Felix](https://github.com/felixroeser)
 * Selfhosted [Stringer](https://github.com/swanson/stringer), gitolite, jekyll in a single DigitalOcean droplet.
+
+## C
 
 #### [chef-filipekiss](https://github.com/filipekiss/chef-filipekiss)
 By: [Filipe](https://github.com/filipekiss)
@@ -60,6 +66,8 @@ By: [John Deatherage](http://netdevops.io/)
 #### [ControleDroplet](https://github.com/kobarei/ControleDroplet)
 By: [Reiji Kobayashi](http://kobarei.me/)
 * Ruby script controle your DigitalOcean Droplets.
+
+## D
 
 #### [Dev Droplet](https://github.com/fgrehm/dev-droplet)
 By: [Fabio Rehm](http://fabiorehm.com/)
@@ -241,12 +249,19 @@ By: [@wuzhuo](https://github.com/wuzhuo)
 By: [Adam M. Dutko](https://github.com/StylusEater), [RunByMany, Inc.](http://www.runbymany.com/)
 * A PHP wrapper around the DigitalOceanm API.
 
+
+## E
+
 #### [ECmanaged](https://ecmanaged.com/)
 * ECmanaged is a SaaS to manage & monitor cloud platforms, and deploy applications easily.
+
+## H
 
 #### [Hostocean](https://github.com/signalfire/Hostocean)
 By: [Robert Coster](http://www.signalfire.co.uk/)
 * Drupal Module to interface with DigitalOcean.
+
+## I
 
 #### [infra-example-nginx](https://github.com/publysher/infra-example-nginx)
 By: Yigal Duppen, [Publysher](http://www.publysher.nl/)
@@ -260,9 +275,13 @@ By: [Dustin Larimer](http://dustinlarimer.com/about)
 By: Matt Schmulen, [StrongLoop](http://www.strongloop.com/)
 * Use a DigitalOcean Droplet for on demand mobile backend.
 
+## K
+
 #### [Kitchen::DigitalOcean](https://github.com/gregf/kitchen-digitalocean)
 By: [Greg Fitzgerald](http://gregf.org/)
 * A DigitalOcean driver for Test Kitchen 1.0.
+
+## L
 
 #### [LAMP stack on DigitalOcean](https://github.com/NCTA/LAMP-stack-on-digitalocean)
 By: [NCTA](http://www.thencta.com/)
@@ -276,6 +295,8 @@ By: [Graham Campbell](http://grahamcampbell.github.io/)
 By: [AG](https://github.com/helirexi)
 * Use your own kernels in DigitalOcean's droplet VPS with ArchLinux.
 
+## N
+
 #### [net_digitalocean_spore](https://github.com/fffinkel/net_digitalocean_spore)
 By: [Matt Finkel](http://mfinkel.net/)
 * Net::DigitalOcean::Spore - DigitalOcean SPORE REST Client.
@@ -287,6 +308,8 @@ By: [Artem Zaytsev](https://github.com/avz)
 #### [Node DigitalOcean.js](https://github.com/innoying/node-digitalocean.js)
 By: [Luke Young](http://innoying.com/)
 * node.js implementation of the Digital Ocean API.
+
+## P
 
 #### [PoSh DigitalOcean](https://github.com/aaronpmiller/PoSh-DigitalOcean)
 By: [@aaronpmiller](https://github.com/aaronpmiller)
@@ -308,6 +331,8 @@ By: [Juan Treminio](https://jtreminio.com/)
 By: [Lorenzo Setale](http://setale.me/)
 * A python package that provide easy access to DigitalOcean's API to manage droplets, images and more.
 
+## S
+
 #### [Salt Cloud](https://github.com/saltstack/salt-cloud)
 By: [Salt Stack](http://saltstack.com/community.html)
 * A tool for provisioning Salted minions on DigitalOcean.
@@ -328,6 +353,8 @@ By: [Quinn Rohlf](http://qrohlf.com/)
 By: [Kim Ausloos](https://github.com/kimausloos)
 * Symfony bundle that lets you use the DigitalOcean api through a service.
 
+## T
+
 #### [Toin0uDigitalOceanBundle](https://github.com/toin0u/Toin0uDigitalOceanBundle)
 By: [Antoine Corcy](http://sbin.dk/)
 * Integration of DigitalOcean library into Symfony2.
@@ -335,6 +362,8 @@ By: [Antoine Corcy](http://sbin.dk/)
 #### [Tugboat](https://github.com/pearkes/tugboat)
 By: [Jack Pearkes](http://jack.ly/)
 * A command line tool for interacting with your DigitalOcean droplets.
+
+## V
 
 #### [Vagrant + Digital Ocean](https://github.com/CoffeeAndCode/vagrant-digitalocean-example)
 By: [Jonathan Knapp](https://github.com/CoffeeAndCode), [Coffee and Code](http://coffeeandcode.com/)
@@ -347,6 +376,8 @@ By: [Andrzej Sliwa](http://andrzejsliwa.com/)
 #### [VPS DigitalOcean](https://github.com/rudisimo/vps-digitalocean)
 By: [Rodolfo Puig](http://puig.io/)
 * A Vagrant + Puppet configuration to create DigitalOcean droplets for PHP development.
+
+## W
 
 #### [WordPress with Chef](https://github.com/NCTA/digitalocean)
 By: [NCTA](http://www.thencta.com/)
