@@ -6,6 +6,10 @@ Directory
 By: [Sergei](https://github.com/mebubo)
 * Ansible playbook to configure Debian on DigitalOcean.
 
+#### [Ansible-DigitalOcean](https://github.com/benjixx/ansible-digitalocean)
+By: [Benjamin Schwarze](https://github.com/benjixx)
+* Ansible tools for DigitalOcean.
+
 #### [Ansible-Jenkins](https://github.com/mwarkentin/ansible-jenkins)
 By: [Michael Warkentin](http://www.michaelwarkentin.com/)
 * Ansible playbook for setting up Jenkins on DigitalOcean.
@@ -26,8 +30,24 @@ By: [Forsaken Labs](http://twitter.com/forsakenlabs)
 By: [Felix](https://github.com/felixroeser)
 * Selfhosted [Stringer](https://github.com/swanson/stringer), gitolite, jekyll in a single DigitalOcean droplet.
 
+#### [chef-filipekiss](https://github.com/filipekiss/chef-filipekiss)
+By: [Filipe](https://github.com/filipekiss)
+* The Chef-Solo for my DigitalOcean VPS.
+
+#### [ciborg-vagrant](https://github.com/hiremaga/ciborg-vagrant)
+By: [Abhi Hiremagalur](http://about.me/hiremaga)
+* Setup ciborg on VirtualBox or DigitalOcean with Vagrant.
+
+#### [Clojure DigitalOcean](https://github.com/r4vi/digitalocean-api)
+By: [Ravi Kotecha](https://github.com/r4vi), [Pickled Lime](http://pckl.me/)
+* API wrapper for DigitalOcean's cloud servers in Clojure.
+
 #### [Cloud 66](https://www.cloud66.com/)
 * The easiest way to deploy, monitor and manage your Ruby on Rails applications on your cloud.
+
+#### [Cloud Foundry Remote Provider Installer](https://github.com/staticcorp/cf-remote-provider-installer)
+By: [Static.com](http://www.static.com/)
+* Static Cloud Manager Remote Provider for DigitalOcean.
 
 #### [colombo](https://github.com/lmmendes/colombo)
 By: [Luís Mendes](http://localhost3000.pt/)
@@ -44,6 +64,10 @@ By: [Reiji Kobayashi](http://kobarei.me/)
 #### [Dev Droplet](https://github.com/fgrehm/dev-droplet)
 By: [Fabio Rehm](http://fabiorehm.com/)
 * Recipes for building a DigitalOcean Droplet for my needs, fell free to fork and adapt to your own.
+
+#### [digital_ocean](https://github.com/jandre/digital_ocean)
+By: Jen Andre, [Threat Stack](https://www.threatstack.com/)
+* A Ruby wrapper for the DigitalOcean API.
 
 #### [DigitalOcean](https://github.com/AeroNotix/digitalocean)
 By: [Aaron France](https://github.com/AeroNotix)
@@ -105,6 +129,10 @@ By: [Antoine Corcy](http://sbin.dk/)
 By: [Ricky Elrod](http://ricky.elrod.me/)
 * A Haskell library for working with the DigitalOcean API.
 
+#### [DigitalOcean iOS](https://github.com/codeblooded/digitalocean)
+By: [Benjamin Reed](http://codeblooded.github.io/)
+* An iOS App for DigitalOcean (work in progress).
+
 #### [DigitalOcean Manager](https://github.com/philipheinser/DigitalOcean-Manager)
 By: [Philip Heinser](http://philipheinser.de/)
 * iOS App to Manage and View your Virtual Server horsted by DigitalOcean.
@@ -120,6 +148,10 @@ By: [Adam Hopkins](http://srchulo.com/)
 #### [DigitalOcean PHP class](https://github.com/mauran/Digitalocean-PHP-class)
 By: [Mauran Muthiah](http://mauran.me/)
 * PHP class for the Digital Ocean API.
+
+#### [DigitalOcean Presentation](https://github.com/brhurley/digitalocean)
+By: [@brhurley](https://github.com/brhurley)
+* Presentation and files about DigitalOcean Server.
 
 #### [DigitalOcean Rails](https://github.com/paulsutcliffe/digitalocean-rails)
 By: [Paul Sutcliffe](http://www.kosmyka.com/)
@@ -169,6 +201,10 @@ By: [Christoph Spiegl](http://chrissp.com/)
 By: [Dynport GmbH](http://www.dynport.de/)
 * DigitalOcean API cli tool and library for golang.
 
+#### [DO4J](https://github.com/marcelocg/do4j)
+By: [Marcelo Gonçalves](http://marcelogoncalves.com.br/)
+* A Java wrapper for the DigitalOcean API.
+
 #### [DOcap](https://github.com/yetti/docap)
 By: [Yetrina Battad](http://aether.nu/)
 * DigitalOcean RoR Capistrano quickstart project.
@@ -200,6 +236,10 @@ By: [Snippex](https://www.facebook.com/snippex)
 #### [Droplets](https://github.com/wuzhuo/Droplets)
 By: [@wuzhuo](https://github.com/wuzhuo)
 * Droplets for DigitalOcean.
+
+#### [Dropper](https://github.com/StylusEater/Dropper)
+By: [Adam M. Dutko](https://github.com/StylusEater), [RunByMany, Inc.](http://www.runbymany.com/)
+* A PHP wrapper around the DigitalOceanm API.
 
 #### [ECmanaged](https://ecmanaged.com/)
 * ECmanaged is a SaaS to manage & monitor cloud platforms, and deploy applications easily.
@@ -252,15 +292,19 @@ By: [Luke Young](http://innoying.com/)
 By: [@aaronpmiller](https://github.com/aaronpmiller)
 * Powershell module containing a collection of functions that utilize the DigitalOcean API.
 
-#### [php-digitalocean](https://github.com/lovattj/php-digitalocean)
+#### [php DigitalOcean](https://github.com/lovattj/php-digitalocean)
 By: [Jonathan Lovatt](http://jlls.info/)
 * Client Library for DigitalOcean cloud service API.
+
+#### [Pipette](https://github.com/StylusEater/Pipette)
+By: [Adam M. Dutko](https://github.com/StylusEater), [RunByMany, Inc.](http://www.runbymany.com/)
+* A Perl module wrapped around the DigitalOcean API.
 
 #### [PuPHPet](https://puphpet.com/)
 By: [Juan Treminio](https://jtreminio.com/)
 * A simple GUI to set up virtual machines for Web development.
 
-#### [python-digitalocean](http://projects.setale.me/python-digitalocean/)
+#### [Python DigitalOcean](http://projects.setale.me/python-digitalocean/)
 By: [Lorenzo Setale](http://setale.me/)
 * A python package that provide easy access to DigitalOcean's API to manage droplets, images and more.
 
@@ -272,9 +316,17 @@ By: [Salt Stack](http://saltstack.com/community.html)
 By: [Salvatore LaMendola](https://www.shellvatore.us/)
 * A Bash client for the DigitalOcean API.
 
+#### [SeaSnake](https://github.com/jeffbuttars/seasnake)
+By: [@jeffbuttars](https://github.com/jeffbuttars)
+* A Python client API library and command line interface for the DigitalOcean API.
+
 #### [Server Spinup](https://github.com/qrohlf/server-spinup)
 By: [Quinn Rohlf](http://qrohlf.com/)
 * A very basic shell script to set up my preferred environment on a DigitalOcean VPS.
+
+#### [Symfony DigitalOcean](https://github.com/kimausloos/digitalocean)
+By: [Kim Ausloos](https://github.com/kimausloos)
+* Symfony bundle that lets you use the DigitalOcean api through a service.
 
 #### [Toin0uDigitalOceanBundle](https://github.com/toin0u/Toin0uDigitalOceanBundle)
 By: [Antoine Corcy](http://sbin.dk/)
@@ -284,9 +336,13 @@ By: [Antoine Corcy](http://sbin.dk/)
 By: [Jack Pearkes](http://jack.ly/)
 * A command line tool for interacting with your DigitalOcean droplets.
 
-#### [Vagrant + Digital Ocean]https://github.com/CoffeeAndCode/vagrant-digitalocean-example)
+#### [Vagrant + Digital Ocean](https://github.com/CoffeeAndCode/vagrant-digitalocean-example)
 By: [Jonathan Knapp](https://github.com/CoffeeAndCode), [Coffee and Code](http://coffeeandcode.com/)
 * An example of getting Vagrant and DigitalOcean playing nice together.
+
+#### [vagrant-my-digitalocean](https://github.com/andrzejsliwa/vagrant-my-digitalocean)
+By: [Andrzej Sliwa](http://andrzejsliwa.com/)
+* My Vagrant confinguration for DigitalOcean
 
 #### [VPS DigitalOcean](https://github.com/rudisimo/vps-digitalocean)
 By: [Rodolfo Puig](http://puig.io/)
