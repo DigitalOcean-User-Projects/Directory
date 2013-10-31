@@ -2,6 +2,10 @@ Directory
 =========
 *Instructions for listing your project(s) are outlined in the [About](https://github.com/DigitalOcean-User-Projects/About#listing-your-project) page.*
 
+#### [Ansible-Debian](https://github.com/mebubo/digitalocean-ansible-debian)
+By: [Sergei](https://github.com/mebubo)
+* Ansible playbook to configure Debian on DigitalOcean.
+
 #### [Ansible-Jenkins](https://github.com/mwarkentin/ansible-jenkins)
 By: [Michael Warkentin](http://www.michaelwarkentin.com/)
 * Ansible playbook for setting up Jenkins on DigitalOcean.
@@ -109,6 +113,10 @@ By: [Philip Heinser](http://philipheinser.de/)
 By: [Alex Soban](http://sobanvuex.com/)
 * Percona Server is an enhanced, drop-in MySQL replacement.
 
+#### [DigitalOcean Perl](https://github.com/srchulo/DigitalOcean)
+By: [Adam Hopkins](http://srchulo.com/)
+* A Perl OO interface to the DigitalOcean API.
+
 #### [DigitalOcean PHP class](https://github.com/mauran/Digitalocean-PHP-class)
 By: [Mauran Muthiah](http://mauran.me/)
 * PHP class for the Digital Ocean API.
@@ -172,6 +180,10 @@ By: [Anton Lindström](http://antonlindstrom.com/)
 #### [Docker-DigitalOcean-Ansible](https://github.com/kencochrane/docker-digitalocean-ansible)
 By: [Ken Cochrane](http://kencochrane.net/)
 * Ansible script for creating the docker image on DigitalOcean.
+
+#### [dodo](https://github.com/adamw523/dodo)
+By: [Adam Wisniewski](http://adamw523.com/)
+* Python DigitalOcean Library and Command Line tools.
 
 #### [DOirc FAQ](https://github.com/TannerFilip/doirc-faq)
 By: [Tanner Filip](http://tannerfilip.me/)
@@ -271,6 +283,10 @@ By: [Antoine Corcy](http://sbin.dk/)
 #### [Tugboat](https://github.com/pearkes/tugboat)
 By: [Jack Pearkes](http://jack.ly/)
 * A command line tool for interacting with your DigitalOcean droplets.
+
+#### [Vagrant + Digital Ocean]https://github.com/CoffeeAndCode/vagrant-digitalocean-example)
+By: [Jonathan Knapp](https://github.com/CoffeeAndCode), [Coffee and Code](http://coffeeandcode.com/)
+* An example of getting Vagrant and DigitalOcean playing nice together.
 
 #### [VPS DigitalOcean](https://github.com/rudisimo/vps-digitalocean)
 By: [Rodolfo Puig](http://puig.io/)
