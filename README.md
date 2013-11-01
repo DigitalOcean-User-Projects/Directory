@@ -341,7 +341,7 @@ By: [Lorenzo Setale](http://setale.me/)
 
 #### [Salt Cloud](https://github.com/saltstack/salt-cloud)
 By: [Salt Stack](http://saltstack.com/community.html)
-* A tool for provisioning Salted minions on DigitalOcean.
+* A tool for provisioning Salted minions on DigitalOcean. *See* [Automated Provisioning of DigitalOcean Cloud Servers with Salt Cloud on Ubuntu 12.04](https://www.digitalocean.com/community/articles/automated-provisioning-of-digitalocean-cloud-servers-with-salt-cloud-on-ubuntu-12-04/?refcode=47494ed444e1)
 
 #### [Seashell](https://github.com/jogfsovt/seashell)
 By: [Salvatore LaMendola](https://www.shellvatore.us/)
