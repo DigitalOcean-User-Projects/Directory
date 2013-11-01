@@ -2,6 +2,8 @@ Directory
 =========
 *Instructions for listing your project(s) are outlined in the [About](https://github.com/DigitalOcean-User-Projects/About#listing-your-project) page.*
 
+[A](#A) | [B](#B) | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+
 ## A
 
 #### [Ansible-Debian](https://github.com/mebubo/digitalocean-ansible-debian)
