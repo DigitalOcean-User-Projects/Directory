@@ -2,7 +2,7 @@ Directory
 =========
 *Instructions for listing your project(s) are outlined in the [About](https://github.com/DigitalOcean-User-Projects/About#listing-your-project) page.*
 
-[A](#a) | [B](#b) | [C](#c) | [D](#d) | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | F | G | [H](#h) | [I](#i) | J | [K](#k) | [L](#l) | M | [N](#n) | O | [P](#p) | Q | R | [S](#s) | [T](#t) | U | [V](#v) | [W](#w) | X | Y | Z
 
 ## A
 
