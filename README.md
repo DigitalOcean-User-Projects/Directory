@@ -313,17 +313,21 @@ By: [Luke Young](http://innoying.com/)
 
 ## P
 
-#### [PoSh DigitalOcean](https://github.com/aaronpmiller/PoSh-DigitalOcean)
-By: [@aaronpmiller](https://github.com/aaronpmiller)
-* Powershell module containing a collection of functions that utilize the DigitalOcean API.
-
 #### [php DigitalOcean](https://github.com/lovattj/php-digitalocean)
 By: [Jonathan Lovatt](http://jlls.info/)
 * Client Library for DigitalOcean cloud service API.
 
+#### [phpDOcli](https://github.com/KamalN7/phpDOcli)
+By: [Kamal Nasser](http://kamalnasser.net/)
+* Client API wrapper for DigitalOcean.
+
 #### [Pipette](https://github.com/StylusEater/Pipette)
 By: [Adam M. Dutko](https://github.com/StylusEater), [RunByMany, Inc.](http://www.runbymany.com/)
 * A Perl module wrapped around the DigitalOcean API.
+
+#### [PoSh DigitalOcean](https://github.com/aaronpmiller/PoSh-DigitalOcean)
+By: [@aaronpmiller](https://github.com/aaronpmiller)
+* Powershell module containing a collection of functions that utilize the DigitalOcean API.
 
 #### [PuPHPet](https://puphpet.com/)
 By: [Juan Treminio](https://jtreminio.com/)
@@ -380,6 +384,10 @@ By: [Rodolfo Puig](http://puig.io/)
 * A Vagrant + Puppet configuration to create DigitalOcean droplets for PHP development.
 
 ## W
+
+#### [WebService DigitalOcean](https://github.com/andrefs/WebService-DigitalOcean)
+By: [André Santos](http://andrefs.com/)
+* Perl Interface to the DigitalOcean API.
 
 #### [WordPress with Chef](https://github.com/NCTA/digitalocean)
 By: [NCTA](http://www.thencta.com/)
