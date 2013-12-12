@@ -240,7 +240,7 @@ By: [Ahmet Helvacı](http://blog.helvaci.biz/)
 * Manage DigitalOcean droplets on web API.
 
 #### [Drizzle](http://getdrizzle.com/)
-By: [Snippex](https://www.facebook.com/snippex)
+By: [Shaps Mohsenin](http://twitter.com/shaps)
 * Drizzle allows you to manage your entire DigitalOcean account from your phone. Drizzle is an app for iOS.
 
 #### [Droplets](https://github.com/wuzhuo/Droplets)
