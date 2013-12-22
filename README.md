@@ -183,6 +183,10 @@ By: [Jakub Cieslar](http://jcieslar.pl/)
 By: [Eric Bréchemier](http://eric.brechemier.name/)
 * Shell scripts acting as client for the DigitalOcean API.
 
+#### [Digitalocean Swimmer](https://github.com/yassirh/digital-ocean-swimmer)
+By: [Yassir Hannoun](http://yassirh.com/)
+* An android client for DigitalOcean API, it provides almost all the features provided by the API with a very neat user interface.
+
 #### [DigitalOcean Tutorial Generator](https://github.com/krmbzds/digitalocean-tutorial-generator)
 By: [Kerem Bozdas](http://bozdas.org/)
 * Life's too short to copy-paste from tutorials.
