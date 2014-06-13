@@ -87,6 +87,10 @@ By: [Aaron France](https://github.com/AeroNotix)
 By: [Antoine Corcy](http://sbin.dk/)
 * PHP 5.3+ library that helps you interact with the DigitalOcean API via PHP or [CLI](https://github.com/toin0u/DigitalOcean#cli).
 
+#### [DigitalOceanV2](https://github.com/toin0u/DigitalOceanV2)
+By: [Antoine Corcy](http://sbin.dk/)
+* PHP 5.3+ library which helps you to interact with the DigitalOcean API V2
+
 #### [DigitalOcean Alfred](https://github.com/Fogh/DigitalOcean-Alfred)
 By: [Anders Fogh Eriksen](http://afogh.dk/)
 * Control your DigitalOcean droplets from Alfred.
